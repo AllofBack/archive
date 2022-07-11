@@ -9,3 +9,11 @@
 *
 
 [//]: # ([popit - 전문 지식 공유를 위한 팀블로그]&#40;https://www.popit.kr/&#41;)
+
+* * *
+
+# My Algorithm
+### :pushpin: 스스로 이해하기
+### Site
+* [JAVA - 순열 Permutation](https://withmoonlab.tistory.com/153)
+*

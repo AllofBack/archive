@@ -5,8 +5,9 @@
 ## My Tech Posts
 ### :pushpin: JAVA
 ### Site
-* [JAVA - Scanner 버퍼 비우기](https://withmoonlab.tistory.com/152)
+* [Java - Scanner 버퍼 비우기](https://withmoonlab.tistory.com/152)
 * [Java - BufferedReader 예외처리](https://withmoonlab.tistory.com/154)
+* [Java - int와 Integer의 차이](https://withmoonlab.tistory.com/155)
 * 
 
 [//]: # ([popit - 전문 지식 공유를 위한 팀블로그]&#40;https://www.popit.kr/&#41;)

@@ -10,7 +10,7 @@
 * [Java - int와 Integer의 차이](https://withmoonlab.tistory.com/155)
 * 
 
-[//]: # ([popit - 전문 지식 공유를 위한 팀블로그]&#40;https://www.popit.kr/&#41;)
+[//]: # ([popit - 전문 지식 공유를 위한 팀블로그]&#40;)
 
 * * *
 
@@ -18,4 +18,6 @@
 ### :pushpin: 스스로 이해하기
 ### Site
 * [JAVA - 순열 Permutation](https://withmoonlab.tistory.com/153)
-*
+* [JAVA - 조합 Combination](https://withmoonlab.tistory.com/156)
+* [JAVA - 연결리스트 LinkedList](https://withmoonlab.tistory.com/157)
+* 

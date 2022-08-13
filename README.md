@@ -14,10 +14,12 @@
 
 * * *
 
-## My Algorithm
-### :pushpin: 스스로 이해하기
+## My Data Structure (JAVA)
+### :pushpin: 스스로 이해하고 정리하기
 ### Site
-* [JAVA - 순열 Permutation](https://withmoonlab.tistory.com/153)
-* [JAVA - 조합 Combination](https://withmoonlab.tistory.com/156)
-* [JAVA - 연결리스트 LinkedList](https://withmoonlab.tistory.com/157)
+* [순열 Permutation](https://withmoonlab.tistory.com/153)
+* [조합 Combination](https://withmoonlab.tistory.com/156)
+* [연결리스트 LinkedList](https://withmoonlab.tistory.com/157)
+* [스택 Stack](https://withmoonlab.tistory.com/158)
+* [큐 Queue](https://withmoonlab.tistory.com/159)
 * 
